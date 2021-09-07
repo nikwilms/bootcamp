@@ -1,4 +1,3 @@
-
 I always try to see the best in people, staying optimistic about the future and competing only with myself. Things that are important to me: having a good community around, personal development and do what you say.
 
 Love to travel, my favorite country is India 😍
