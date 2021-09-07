@@ -1,5 +1,5 @@
-Hi :) 
+## WELCOME 
 
 Currently doing a web development bootcamp
 
-Motto: fail to success
+> fail to success
