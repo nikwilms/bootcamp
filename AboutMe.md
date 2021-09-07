@@ -1,7 +1,7 @@
 ### Hi there
 
 <!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**username/username** is a ✨ _special_ ✨ repository because its `AboutMe.md` (this file) appears on your GitHub profile.
 -->
 
 > Hi my name is Nikita(Nik),
