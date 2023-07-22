@@ -1,5 +1,10 @@
 #### Hey - it's Nik 
 
-`AI & Machine Learning` **is my vibe**
+On a quest for **data**💾 **code**⌨️ and **performance optimization**🚀
+
+`AI & Machine Learning`
+
+
+
 
 
